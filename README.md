@@ -12,14 +12,14 @@ Simple GUI que conecta una placa electrónica simulada de Arduino en Proteus con
   <img src="images/GUI.png" width="350" title="Interfaz de usuario">
 </p>
 <p align="center">
-  <img src="images/board and GUI.png" width="350" title="Interfaz de usuario">
+  <img src="images/board and GUI.png" width="auto" title="Interfaz de usuario">
 </p>
 
 
 ### Software utilizado🛠️
-* [Arduino IDE]
-* [Proteus 8]
-* [Visual Studio Code]
+* Arduino IDE
+* Proteus 8
+* Visual Studio Code
 
 
 ### Construido con 🛠️
